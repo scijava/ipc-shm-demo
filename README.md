@@ -1,5 +1,8 @@
 # Interprocess shared memory proof of concept
 
+***This work has now been fully realized as a dedicated library for interprocess
+cooperation with shared memory. For details, see https://apposed.org/***
+
 ## Demo
 
 This repository contains a working Python-first demo of interprocess shared
